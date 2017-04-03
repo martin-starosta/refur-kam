@@ -1,0 +1,28 @@
+{
+  "name": "refur-kam",
+  "version": "1.0.0",
+  "description": "Wordpress theme for KAM Forum site based on Refur theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-starosta/refur-kam.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "kam"
+  ],
+  "author": "Martin Starosta <martin.starosta83@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-starosta/refur-kam/issues"
+  },
+  "homepage": "https://github.com/martin-starosta/refur-kam#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
